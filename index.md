@@ -20,7 +20,7 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: Grace MOPS
+  headline: "<br><br><br>Grace MOPS"
   content: to the full(est)
   cta:
     enabled: false
